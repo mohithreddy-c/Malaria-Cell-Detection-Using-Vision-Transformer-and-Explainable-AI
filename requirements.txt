@@ -1,0 +1,12 @@
+torch
+torchvision
+timm
+numpy
+opencv-python
+matplotlib
+seaborn
+streamlit
+pillow
+scikit-learn
+grad-cam
+fpdf
