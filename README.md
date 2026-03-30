@@ -25,3 +25,26 @@ https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
 
 ```bash
 pip install -r requirements.txt
+
+Run Application
+streamlit run malaria_app.py
+
+Output
+Prediction: Parasitized / Uninfected
+Confidence score
+Heatmap visualization
+Downloadable PDF report
+
+Mathematical Concepts Used
+Softmax function
+Cross Entropy Loss
+Attention mechanism
+GELU activation
+
+Future Improvements
+Multi-cell detection
+Mobile app integration
+Real-time microscope input
+
+👨‍💻 Author
+C.Mohith Reddy
