@@ -1,0 +1,16 @@
+# Ignore dataset
+dataset/
+
+# Ignore trained model
+*.pth
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore generated files
+*.png
+*.pdf
+
+# Ignore environment
+venv/
