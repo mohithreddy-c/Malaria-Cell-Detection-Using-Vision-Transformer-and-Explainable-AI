@@ -25,7 +25,7 @@ https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
 
 ```bash
 pip install -r requirements.txt
-
+```
 Run Application
 streamlit run malaria_app.py
 
