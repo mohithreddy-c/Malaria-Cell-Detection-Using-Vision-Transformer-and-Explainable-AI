@@ -22,7 +22,6 @@ Download from:
 https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
 
 ##  Installation
-Testing GitHub Achievements 🚀
 
 ```bash
 pip install -r requirements.txt
